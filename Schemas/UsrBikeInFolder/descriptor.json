@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "085ed4e5-0e9a-4b6c-850d-6e0014ead4f1",
+    "Name": "UsrBikeInFolder",
+    "ModifiedOnUtc": "\/Date(1703418195000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Bike в группе"
+  }
+}

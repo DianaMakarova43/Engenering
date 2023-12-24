@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Bike" />
+			<Item Name="Columns.UsrBoolean1.Caption" Value="Большой" />
+			<Item Name="Columns.UsrDatetime1.Caption" Value="Дата/Время Покупки" />
+			<Item Name="Columns.UsrFloat1.Caption" Value="Цена" />
+			<Item Name="Columns.UsrInteger1.Caption" Value="Скидка" />
+			<Item Name="Columns.UsrLookup1.Caption" Value="Характеристики" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.UsrString1.Caption" Value="Описание" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f6f7249b-213c-4cd0-8af5-ddbb6680dc7e",
+    "Name": "UsrBike",
+    "ModifiedOnUtc": "\/Date(1703418187000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Bike"
+  }
+}
