@@ -1,0 +1,30 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "7489236c-efeb-49e7-b09f-a9bae2f48838",
+      "A2": "UsrClientUnit",
+      "A5": "ef826c66-a0cf-4619-ac6c-2ffd527f8073",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "d3f6392a-6b12-4ca5-2124-9da03a51a060",
+          "A2": "getButtonMenuItem",
+          "A3": "7489236c-efeb-49e7-b09f-a9bae2f48838",
+          "A4": "7489236c-efeb-49e7-b09f-a9bae2f48838",
+          "A5": "ef826c66-a0cf-4619-ac6c-2ffd527f8073"
+        }
+      ],
+      "B3": [],
+      "B6": "a273932b-3dba-8334-68fe-5db0411c23ab",
+      "B8": "1.2.0.3013",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}

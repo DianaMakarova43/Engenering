@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="UsrMasya" />
+			<Item Name="Columns.UsrColor.Caption" Value="UsrColor" />
+			<Item Name="Columns.UsrColor.Description" Value="ываываыва" />
+			<Item Name="Columns.UsrKot.Caption" Value="UsrKot" />
+			<Item Name="Columns.UsrKot.Description" Value="ываываыва" />
+			<Item Name="Columns.UsrVes.Caption" Value="UsrVes" />
+			<Item Name="Columns.UsrVes.Description" Value="ывафывафыв" />
+		</Items>
+	</Group>
+</Resources>

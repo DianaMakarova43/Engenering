@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "867f0514-5b54-460e-9ed4-13cd1850a4b8",
+    "Name": "UsrMasya",
+    "ModifiedOnUtc": "\/Date(1704460398000)\/",
+    "Parent": {
+      "UId": "f6f7249b-213c-4cd0-8af5-ddbb6680dc7e",
+      "Name": "UsrBike"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "UsrMasya"
+  }
+}
